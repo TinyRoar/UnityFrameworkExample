@@ -1,0 +1,3 @@
+[submodule "UnityFramework"]
+	path = Assets/Scripts/TinyRoar/UnityFramework
+	url = https://DarioDomiDE@github.com/TinyRoar/UnityFramework.git
