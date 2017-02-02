@@ -1,16 +1,3 @@
-
-public enum GameEnvironment
-{
-    None,
-    Default,
-}
-
-public enum Layer {
-    None,
-    MainMenu,
-    InGame,
-}
-
 public enum GameplayStatus
 {
     None,
