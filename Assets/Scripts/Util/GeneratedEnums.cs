@@ -1,3 +1,3 @@
-public enum GameEnvironment{None,}
+public enum GameEnvironment{None,Default,}
 
-public enum Layer{None,}
+public enum Layer{None,Main,Ingame,Debug,}
